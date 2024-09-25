@@ -24,7 +24,7 @@ Check out more of my work in the repositories below!
 ---
 
 ### 📫 Get in touch:
-- Email: `bhurendra31.com`
+- Email: `bhurendra31@gmail.com`
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/bhurendra-kumar-sah-b03b371a9/)
 - Portfolio: [Your Portfolio](https://your-portfolio.com)
 
