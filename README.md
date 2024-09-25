@@ -1,13 +1,13 @@
 # Hi there 👋, I'm [Your Name]
 
-### Figma | MERN Stack | DevOps Enthusiast
+### Figma | Flutter | MERN Stack | DevOps Enthusiast
 
-I am passionate about designing and building full-stack applications, and I love working with the MERN stack (MongoDB, Express, React, Node.js). I'm also diving into the world of DevOps to enhance development workflows and ensure seamless project delivery. 
+I am passionate about designing and building full-stack applications, and I love working with the MERN stack (MongoDB, Express, React, Node.js). I'm also diving into mobile development using **Flutter** and the world of **DevOps** to enhance development workflows and ensure seamless project delivery. 
 
 ---
 
 ### 🚀 Technologies & Tools:
-- **Frontend**: React, HTML, CSS, JavaScript, Figma (Design)
+- **Frontend**: React, HTML, CSS, JavaScript, Flutter, Figma (Design)
 - **Backend**: Node.js, Express
 - **Databases**: MongoDB, SQL
 - **DevOps**: Docker, Kubernetes, Jenkins, CI/CD, Git, AWS
@@ -31,7 +31,7 @@ Check out more of my work in the repositories below!
 ---
 
 ### ⚡ Fun Fact:
-When I’m not coding, you’ll find me exploring new design trends or automating tasks with DevOps tools!
+When I’m not coding, you’ll find me exploring new design trends, building cross-platform apps with Flutter, or automating tasks with DevOps tools!
 
 ---
 
@@ -40,6 +40,7 @@ When I’m not coding, you’ll find me exploring new design trends or automatin
 ---
 
 ### ⚙️ GitHub Stats:
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ---
