@@ -40,5 +40,14 @@ When I’m not coding, you’ll find me exploring new design trends or automatin
 ---
 
 ### ⚙️ GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)# bhurendra31
+---
+
+### 📊 Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+---
+
+### 🏆 GitHub Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
