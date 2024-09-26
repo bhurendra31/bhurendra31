@@ -15,7 +15,34 @@ I am passionate about designing and building full-stack applications, and I love
 ---
 
 ### 🌟 Featured Projects:
-- **[Tour & Travels Website]**: Brief description of the project.
+- **[Tour & Travels Website]**: This Tour and Travel Website is a dynamic and user-friendly platform built using HTML, CSS, and PHP, designed to help users explore and plan their ideal holiday trips. The website allows users to find the best travel destinations, attractions, and packages tailored to their preferences for an unforgettable holiday experience.
+
+Key Features:
+
+	1.	Explore Destinations:
+	•	A curated collection of popular and exotic destinations with detailed descriptions, images, and reviews.
+	•	Search and filter options to help users find the perfect holiday spots based on preferences such as location, budget, or activities.
+	2.	Holiday Packages:
+	•	Users can browse through various holiday packages, including family vacations, adventure trips, beach getaways, and cultural tours.
+	•	Each package includes details on itinerary, pricing, and accommodations.
+	3.	Ticket Reservation System:
+	•	Integrated ticket booking system that allows users to reserve tickets for flights, trains, buses, and local tours.
+	•	Secure and user-friendly booking interface with multiple payment options.
+	•	Confirmation email and booking history tracking for users after successful reservations.
+	4.	User Accounts and Personalization:
+	•	Option for users to create personal accounts to save preferences, wishlist destinations, and track bookings.
+	•	Personalized recommendations based on previous searches and preferences.
+	5.	Responsive Design:
+	•	Fully responsive design that ensures seamless usability across desktop, tablet, and mobile devices.
+	•	User-friendly interface for easy navigation and a smooth user experience.
+
+Technologies Used:
+
+	•	Frontend: HTML5, CSS3 for structuring and styling the website to deliver a clean and attractive user interface.
+	•	Backend: PHP for server-side scripting, handling user requests, and processing the ticket reservation system.
+	•	Database: MySQL for managing user data, bookings, and holiday package information.
+
+This Tour and Travel Website simplifies the process of finding, planning, and booking holidays, offering users a hassle-free experience to make the best decision for their vacation planning.
 - **[Project Name 2]**: Brief description of the project.
 - **[Project Name 3]**: Brief description of the project.
 
