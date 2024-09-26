@@ -16,7 +16,7 @@ I am passionate about designing and building full-stack applications, and I love
 
 ### 🌟 Featured Projects:
 - **Tour & Travels Website**:A dynamic Tour and Travel Website built with HTML, CSS, and PHP to help users explore the best holiday destinations and book tickets seamlessly. It offers curated holiday packages, a ticket reservation system for flights and tours, and personalized recommendations based on user preferences. The platform is responsive, ensuring a smooth experience across all devices. 
-- **[Project Name 2]**: Brief description of the project.
+- **Stopwatch & Timmer**: Brief description of the project.
 - **[Project Name 3]**: Brief description of the project.
 
 Check out more of my work in the repositories below!
