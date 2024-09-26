@@ -37,7 +37,7 @@ When I’m not coding, you’ll find me exploring new design trends, building cr
 
 ---
 
-“Code is like humor. When you have to explain it, it’s bad.” – Cory House
+“Code is like humor. When you have to explain it, it’s bad.” 
 
 ---
 
