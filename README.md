@@ -17,6 +17,8 @@ I am passionate about designing and building full-stack applications, and I love
 ### 🌟 Featured Projects:
 - **Tour & Travels Website**:A dynamic Tour and Travel Website built with HTML, CSS, and PHP to help users explore the best holiday destinations and book tickets seamlessly. It offers curated holiday packages, a ticket reservation system for flights and tours, and personalized recommendations based on user preferences. The platform is responsive, ensuring a smooth experience across all devices. 
 
+- **Tour & Travels Website**:A dynamic Tour and Travel Website built with LARAVEL and PHP to help users explore the best holiday destinations and book tickets seamlessly. It offers curated holiday packages, a ticket reservation system for flights and tours, and personalized recommendations based on user preferences. The platform is responsive, ensuring a smooth experience across all devices. 
+
 - **Stopwatch & Timmer**: A Flutter app featuring a sleek stopwatch with lap counting functionality and a built-in timer. Users can easily track laps, monitor time, and set custom countdowns, all in an intuitive and responsive interface.
 
 - **[Project Name 3]**: Brief description of the project.
