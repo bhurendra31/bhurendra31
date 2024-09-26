@@ -15,7 +15,7 @@ I am passionate about designing and building full-stack applications, and I love
 ---
 
 ### 🌟 Featured Projects:
-- **[Tour & Travels Website]**: This Tour and Travel Website is a dynamic and user-friendly platform built using HTML, CSS, and PHP, designed to help users explore and plan their ideal holiday trips. The website allows users to find the best travel destinations, attractions, and packages tailored to their preferences for an unforgettable holiday experience.
+- **Tour & Travels Website**: This Tour and Travel Website is a dynamic and user-friendly platform built using HTML, CSS, and PHP, designed to help users explore and plan their ideal holiday trips. The website allows users to find the best travel destinations, attractions, and packages tailored to their preferences for an unforgettable holiday experience.
 
 Key Features:
 
