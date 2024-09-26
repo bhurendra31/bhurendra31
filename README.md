@@ -2,7 +2,7 @@
 
 ### Figma | Flutter | MERN Stack | DevOps Enthusiast
 
-I am passionate about designing and building full-stack applications, and I love working with the MERN stack (MongoDB, Express, React, Node.js). I'm also diving into mobile development using **Flutter** and the world of **DevOps** to enhance development workflows and ensure seamless project delivery. 
+I am passionate about designing and building full-stack applications, and I love working with the MERN stack (MongoDB, Express, React, Node.js). I’m also diving into mobile development using Flutter and exploring DevOps to enhance development workflows and ensure seamless project delivery. Additionally, I enjoy working with Figma for design, allowing me to bring creative and functional user interfaces to life.
 
 ---
 
