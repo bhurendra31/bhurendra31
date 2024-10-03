@@ -6,6 +6,8 @@ I am passionate about designing and building full-stack applications, and I love
 
 ---
 
+[![An image of @bhurendra31's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhurendra31)](https://holopin.io/@bhurendra31)
+
 ### 🚀 Technologies & Tools:
 - **Frontend**: React, HTML, CSS, JavaScript, Flutter, Figma (Design)
 - **Backend**: Node.js, Express
